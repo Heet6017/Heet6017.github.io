@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.heet6017.kerovitquote",
+      "sha256_cert_fingerprints": [
+        "A6:F5:E8:DC:B0:B1:C6:C7:9E:74:47:EE:A2:37:75:0F:76:5C:FD:C7:F5:C3:05:50:89:65:3F:B4:61:0B:4B:72"
+      ]
+    }
+  }
+]
